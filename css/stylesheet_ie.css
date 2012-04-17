@@ -1,0 +1,27 @@
+/* for IE css hack*/
+/* .rightHack{
+	float: right;
+	margin-top: 12px;
+} */
+.footercontentHack{
+	/* border: 1px solid red; */
+}
+
+/* #q{
+	background: none repeat scroll 0 0 transparent;
+	height: 8px;
+    margin-bottom: 1px;
+	padding-top: 4px;
+	padding-bottom: 8px;
+    width: 155px;
+}
+#subsButton{
+	margin-top: 1px;
+}
+ */
+.righthackLogin{
+	margin-bottom: 20px;
+}
+.contactPhographer{
+	width: 210px !important;
+}
